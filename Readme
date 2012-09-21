@@ -11,3 +11,7 @@ To start run:
 To deploy push to:
 
   git@heroku.com:mistubishi-tab.git
+
+Add tab to page:
+
+  http://www.facebook.com/dialog/pagetab?app_id=459968644048317&redirect_uri=http://mistubishi-tab.herokuapp.com/
