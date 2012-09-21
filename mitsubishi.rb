@@ -9,3 +9,7 @@ end
 post '/tab/' do
   erb :tab
 end
+
+get '/tab/' do
+  erb :tab
+end

@@ -8,24 +8,24 @@ html, body, * {
 
 @font-face {
     font-family: 'PTSans';
-	src: url('../fonts/PTS55F.ttf');
-	src: local('O'), url('../fonts/PTS55F.ttf') format('truetype');
+	src: url('/fonts/PTS55F.ttf');
+	src: local('O'), url('/fonts/PTS55F.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
     font-family: 'PTSans Narrow';
-	src: url('../fonts/PTN57F.ttf');
-	src: local('O'), url('../fonts/PTN57F.ttf') format('truetype');
+	src: url('/fonts/PTN57F.ttf');
+	src: local('O'), url('/fonts/PTN57F.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
     font-family: 'PTSans Bold';
-	src: url('../fonts/PTN77F.ttf');
-	src: local('O'), url('../fonts/PTN77F.ttf') format('truetype');
+	src: url('/fonts/PTN77F.ttf');
+	src: local('O'), url('/fonts/PTN77F.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
