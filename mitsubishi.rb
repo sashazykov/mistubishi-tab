@@ -6,6 +6,6 @@ get '/' do
   redirect 'https://www.facebook.com/crazyjapan', 303
 end
 
-post '/tab/' do
+get '/tab/' do
   erb :tab
 end

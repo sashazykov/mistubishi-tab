@@ -2,7 +2,7 @@ https://mistubishi-tab.herokuapp.com/
 
 Tab:
 
-  post https://mistubishi-tab.herokuapp.com/
+  post https://mistubishi-tab.herokuapp.com
 
 To start run:
 
@@ -14,4 +14,4 @@ To deploy push to:
 
 Add tab to page:
 
-  http://www.facebook.com/dialog/pagetab?app_id=459968644048317&redirect_uri=http://mistubishi-tab.herokuapp.com/
+  http://www.facebook.com/dialog/pagetab?app_id=459968644048317&redirect_uri=http://mistubishi-tab.herokuapp.com
