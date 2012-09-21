@@ -1,0 +1,13 @@
+https://mistubishi-tab.herokuapp.com/
+
+Tab:
+
+  post https://mistubishi-tab.herokuapp.com/
+
+To start run:
+
+  bundle exec rackup config.ru
+
+To deploy push to:
+
+  git@heroku.com:mistubishi-tab.git
