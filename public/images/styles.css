@@ -361,6 +361,7 @@ input.button, a.button {
     position: absolute;
     top: 168px;
     width: 168px;
+    font-size: 0.82em;
 }
 
 #block-main-links .link-31 a {
